@@ -1,0 +1,14 @@
+C:\Users\mi-pr\Desktop\zakharovn\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\mi-pr\Desktop\zakharovn\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\mi-pr\Desktop\zakharovn\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\mi-pr\Desktop\zakharovn\WindowsFormsApp9\bin\Debug\nunit.framework.dll
+C:\Users\mi-pr\Desktop\zakharovn\WindowsFormsApp9\bin\Debug\nunit.framework.pdb
+C:\Users\mi-pr\Desktop\zakharovn\WindowsFormsApp9\bin\Debug\nunit.framework.xml
+C:\Users\mi-pr\Desktop\zakharovn\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojAssemblyReference.cache
+C:\Users\mi-pr\Desktop\zakharovn\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\mi-pr\Desktop\zakharovn\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\mi-pr\Desktop\zakharovn\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\mi-pr\Desktop\zakharovn\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\mi-pr\Desktop\zakharovn\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CopyComplete
+C:\Users\mi-pr\Desktop\zakharovn\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\mi-pr\Desktop\zakharovn\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
